@@ -1,0 +1,13 @@
+.header {
+    grid-area: header;
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+
+.logo {
+}
+
+.search {
+}

@@ -1,0 +1,13 @@
+.btn {
+    padding: 0.3em 1em;
+    font-size: 1.1rem;
+    text-transform: inherit;
+    text-decoration: none;
+    text-align: center;
+    line-height: 1em;
+    border-radius: 0.7em;
+    background-color: #0142FE;
+    color: white;
+    cursor: pointer;
+}
+
