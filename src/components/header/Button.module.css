@@ -1,13 +1,34 @@
+
 .btn {
-    padding: 0.3em 1em;
-    font-size: 1.1rem;
+    display: inline-block;
+    padding: 1em 2em;
+    font-size: 0.7rem;
+    text-align: center;
+    background-color: #0142FE;
+    color: #fff;
+    line-height: 1em;
     text-transform: inherit;
     text-decoration: none;
-    text-align: center;
-    line-height: 1em;
-    border-radius: 0.7em;
-    background-color: #0142FE;
-    color: white;
-    cursor: pointer;
+    border-radius: 1.6em;
+    border: 0.1em solid #0142FE;
+    user-select: none;
+}
+.btn:hover {
+    background-color: #fff;
+    color: #0142FE;
 }
 
+/*.search {
+    display: inline-block;
+    padding: 1em 2em;
+    font-size: 0.7rem;
+    text-align: center;
+    background-color:#fff;
+    color: lightgrey;
+    line-height: 1em;
+    text-transform: inherit;
+    text-decoration: none;
+    border-radius: 1.6em;
+    border: 0.1em solid lightgrey;
+    user-select: none;
+}*/

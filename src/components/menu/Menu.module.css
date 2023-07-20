@@ -1,0 +1,18 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    width: 4rem;
+    height: 100vh;
+    background-color: #0142FE;
+    position: fixed;
+    transition: width 0.4s ease-in 0s;
+  }
+
+.nav:hover {
+    max-width: 13rem;
+    width: 13rem;
+}
+
+

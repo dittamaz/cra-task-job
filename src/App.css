@@ -1,6 +1,7 @@
 .app {
     display: grid;
-    grid-template-columns: 1fr 20rem;
+    width: 100%;
+    grid-template-columns: 4rem 1fr 20rem;
     grid-template-areas: 
         'menu header aside'
         'menu main aside';   
