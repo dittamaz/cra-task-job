@@ -2,28 +2,35 @@
 .main {
     grid-area: main;
     background-color: #F9F9F9;
-    padding: 1.5rem 1rem;
+    padding: 2rem 1rem;
     border-radius: 1rem; 
 }
-
 
 .job {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
-    padding: 2rem 3rem;
-    
 }
+
 .header {
      grid-column: span 3;
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .post {
+    display: grid;
+    gap: 1rem;
+    padding: 2rem;
+    background-color: lightgoldenrodyellow;
+    border-radius: 1rem;
 }
 
 .seecer {
+    display: grid;
+    gap: 1rem;
+    padding: 2rem;
+    background-color: lightgoldenrodyellow;
+    border-radius: 1rem;
 }
