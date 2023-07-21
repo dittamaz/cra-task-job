@@ -1,6 +1,6 @@
 import style from './Main.module.css';
 
-export function PostsCard () {
+export function PostCard () {
     return (
         <div className={style.post}>
             CARD

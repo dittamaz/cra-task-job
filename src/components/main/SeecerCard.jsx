@@ -1,6 +1,6 @@
 import style from './Main.module.css';
 
-export function SeecersCard () {
+export function SeecerCard () {
     return (
         <div className={style.seecer}>
             CARD
