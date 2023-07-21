@@ -1,6 +1,16 @@
 
 .main {
     grid-area: main;
-    background-color: #fff;
-    padding: 1.5rem 1rem; 
+    background-color: #F9F9F9;
+    padding: 1.5rem 1rem;
+    border-radius: 1rem; 
+}
+
+.job {
+}
+
+.post {
+}
+
+.seecer {
 }
