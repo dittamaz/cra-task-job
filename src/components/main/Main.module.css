@@ -1,21 +1,6 @@
 
 .main {
     grid-area: main;
-    background-color: pink;
-    display: grid;
-    padding: 2rem 1rem;
+    background-color: #fff;
+    padding: 1.5rem 1rem; 
 }
-
-.CardRow {
-    display: grid;
-    grid-row: inherit;
-    grid-template-columns: repeat(5 1fr);
-    padding: 2rem 3rem;
-}
-
-.headerCard {
-    padding: 1rem;
-    background-color: antiquewhite;
-    border-radius: 1rem;
-}
-

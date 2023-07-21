@@ -4,9 +4,9 @@ export function Menu () {
     return (
         <menu className={style.menu}>
             <nav className={style.nav}> 
-                <a href="/">P</a>
-                <a href="/">S</a>
-                <a href="/">H</a>
+                <a href="/">A</a>
+                <a href="/">B</a>
+                <a href="/">C</a>
             </nav>
         </menu>
     );
